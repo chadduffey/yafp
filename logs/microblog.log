@@ -108,3 +108,4 @@ Traceback (most recent call last):
 NameError: name 'ResetPasswordRequestForm' is not defined
 2019-06-02 10:14:29,027 INFO: Microblog startup [in /home/chad/microblog/app/__init__.py:47]
 2019-06-02 10:19:54,308 INFO: Microblog startup [in /home/chad/microblog/app/__init__.py:47]
+2019-06-03 06:11:59,117 INFO: Microblog startup [in /home/chad/microblog/app/__init__.py:47]
